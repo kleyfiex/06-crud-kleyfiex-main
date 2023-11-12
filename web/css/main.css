@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --txt-color: #ffff;
+}
+
+h1 {
+    color: var(--txt-color);
+    font-family: 'Roboto-flex';
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+}
